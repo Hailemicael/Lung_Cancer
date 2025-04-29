@@ -18,11 +18,9 @@ This project focuses on detecting lung cancer from CT scan images using deep lea
 | --- | --- |
 | `advanced_xai_results/` | Results from advanced explainable AI (XAI) methods. |
 | `component_interpretation/` | Component-level interpretation of lung cancer detection. |
-| `finding-lungs-in-ct-data/` | Methods and results for lung segmentation. |
 | `lung_segmentation_results/samples/` | Sample images of lung segmentation results. |
 | `xai_results/` | Initial XAI results visualizations. |
 | `.gitattributes`, `.gitignore` | Git configuration files. |
-| `README.md` | This project documentation. |
 | `input_slices.png` | Sample of CT input slices used for detection. |
 | `lung_cancerl.ipynb` | Jupyter Notebook for training and evaluation of the model. |
 | `training_history.png` | Visualization of model training history (loss and accuracy curves). |
